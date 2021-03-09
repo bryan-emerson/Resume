@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Emerson",
+  "website": "bryan-emerson.github.io",
+  "linkedin": "https://www.linkedin.com/in/bryanemerson-/",
+  "github": "bryan-emerson",
+  "email": "bryan.l.emerson@gmail.com",
+  "resume": "",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Drawing",
+      "Riding Bikes",
+      "Scrabble"
+  ]
+}
